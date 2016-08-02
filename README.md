@@ -11,3 +11,5 @@ Git冲突时的解决方法
 -  [Resolving a merge conflict from the command line](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/)
 
 - feature_A
+-feature_B
+
